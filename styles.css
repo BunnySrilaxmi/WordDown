@@ -1,0 +1,15 @@
+/* Basic styles for content */
+#content {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+#image-container {
+    margin: 10px;
+}
+.main-image {
+    width: 300px; /* Ensure the image scales with the container */
+    height: 300px; /* Maintain aspect ratio */
+    cursor: pointer; /* Change cursor to pointer to indicate clickability */
+    margin-right: 10px; /* Space between images */
+}
